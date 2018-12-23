@@ -1,0 +1,14 @@
+F:\Projects\VCode\Dice\Dice\bin\Debug\Dice.exe.config
+F:\Projects\VCode\Dice\Dice\bin\Debug\Dice.exe
+F:\Projects\VCode\Dice\Dice\bin\Debug\Dice.pdb
+F:\Projects\VCode\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+F:\Projects\VCode\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+F:\Projects\VCode\Dice\Dice\obj\Debug\Dice.exe
+F:\Projects\VCode\Dice\Dice\obj\Debug\Dice.pdb
+F:\Projects\VStudio\Dice\.vs\Dice\bin\Debug\Dice.exe.config
+F:\Projects\VStudio\Dice\.vs\Dice\bin\Debug\Dice.exe
+F:\Projects\VStudio\Dice\.vs\Dice\bin\Debug\Dice.pdb
+F:\Projects\VStudio\Dice\.vs\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+F:\Projects\VStudio\Dice\.vs\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+F:\Projects\VStudio\Dice\.vs\Dice\obj\Debug\Dice.exe
+F:\Projects\VStudio\Dice\.vs\Dice\obj\Debug\Dice.pdb
